@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/mac305/Library/Developer/Xcode/DerivedData/DipsPicker-aexqbndzysuruaffoprwiucccpkw/Build/Products/Debug-iphonesimulator/DipsPicker.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DipsPicker-Swift.h",
+          'external-contents': "/Users/mac305/Library/Developer/Xcode/DerivedData/DipsPicker-aexqbndzysuruaffoprwiucccpkw/Build/Products/Debug-iphonesimulator/DipsPicker.framework/Headers/DipsPicker-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DipsPicker.h",
+          'external-contents': "/Users/mac305/Desktop/DipsPicker/DipsPicker/DipsPicker.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/mac305/Library/Developer/Xcode/DerivedData/DipsPicker-aexqbndzysuruaffoprwiucccpkw/Build/Products/Debug-iphonesimulator/DipsPicker.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/mac305/Desktop/DipsPicker/build/DipsPicker.build/Debug-iphonesimulator/DipsPicker.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

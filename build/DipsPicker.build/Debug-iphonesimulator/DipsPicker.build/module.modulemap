@@ -1,0 +1,11 @@
+framework module DipsPicker {
+  umbrella header "DipsPicker.h"
+
+  export *
+  module * { export * }
+}
+
+module DipsPicker.Swift {
+    header "DipsPicker-Swift.h"
+    requires objc
+}

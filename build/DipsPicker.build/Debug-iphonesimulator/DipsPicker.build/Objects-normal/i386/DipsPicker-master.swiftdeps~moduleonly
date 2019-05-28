@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2e13936bc181fd2f96fdb0c254d44be1"
+build_time: [1558702169, 750820000]
+inputs:
+  "/Users/mac305/Desktop/DipsPicker/DipsPicker/ImagePickerManager.swift": [1558701302, 0]

@@ -1,0 +1,10 @@
+framework module DipsPicker {
+  umbrella header "DipsPicker.h"
+
+  export *
+  module * { export * }
+}
+
+module DipsPicker.__Swift {
+    exclude header "DipsPicker-Swift.h"
+}
